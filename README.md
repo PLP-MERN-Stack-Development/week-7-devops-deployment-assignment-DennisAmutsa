@@ -1,5 +1,11 @@
 # 🚀 Modern Blog System - MERN Stack with Authentication
 
+## # 🚀 Modern Blog System - MERN Stack with Authentication
+
+**Live Demo:**  
+[https://week-7-mern.vercel.app/](https://week-7-mern.vercel.app/)
+
+
 A full-stack blog application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring user authentication, CRUD operations for blog posts, and a modern responsive UI.
 
 ## ✨ Features
@@ -313,6 +319,8 @@ In your GitHub repository settings, add these secrets for CI/CD:
 - Touch-friendly interface
 
 ## 🔧 Development
+
+...
 
 ### Adding New Features
 1. Create new components in `client/src/components/`
